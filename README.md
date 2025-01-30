@@ -8,4 +8,3 @@ app_file: app.py
 pinned: false
 license: other
 short_description: A deep learning model to monitor heart disease risk
-A deep learning model to monitor heart disease risk
